@@ -2,7 +2,7 @@
 
 Welcome to the Memes Generator, a simple web application that allows you to generate random wholesome memes and display them on your webpage. This application uses the "Meme API" to fetch memes and present them in a user-friendly interface.
 
-![[meme-generator.png]](images/meme-generator.png)
+![meme-generator.png|400](images/meme-generator.png)
 
 
 ## Getting Started
