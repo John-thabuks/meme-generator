@@ -59,7 +59,7 @@ Have fun generating and sharing wholesome memes with the Memes Generator!
 
 For any questions or issues, feel free to contact the author, `John Muthabuku`, at [thabuksjohn@gmail.com].
 
-Preview: []
+Preview: [https://john-thabuks.github.io/meme-generator/]
 
 
 
